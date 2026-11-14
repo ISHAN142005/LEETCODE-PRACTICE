@@ -3,4 +3,4 @@ class Solution {
         return n%2==0;
         
     }
-}A
+}
